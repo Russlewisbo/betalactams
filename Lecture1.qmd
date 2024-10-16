@@ -207,19 +207,31 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Metabolism**    | Not metabolised but some drugs can induce CYP P450 (dicloxacillin, flucloxacillin)                                                                                             |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Elimination**   | Biliary (no dosing adjustement for renal impairment)                                                                                                                           |
+| **Elimination**   | Biliary with some renal (no dosing adjustment for renal impairment)                                                                                                            |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Typical doses** | 125-500 every 6h (oral); 1-2 gram IV every 4-6h;                                                                                                                               |
+| **Typical doses** | 125-500 every 6h (oral); 1-2 gram IV every 4-6h                                                                                                                                |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-### **Adverse Effects**
+## **Adverse Effects**
+
+<br>
 
 -   Local phlebitis, fever, rash (4%), anaphylaxis (rare)- *problematic with frequent IV dosing*
 
--   \+ Coombs (rare), neutropenia (rare), eosinophilia (22%), thrombocytopenia (rare), *C. difficile* colitis (rare), increased LFTs, headache (rare), confusion (rare), acute interstitial nephritis (less than methicillin)
+-   \+ Coombs (rare), neutropenia (prolonged treatment), eosinophilia (22%), thrombocytopenia , *C. difficile* colitis (rare), increased LFTs, headache (rare), confusion (rare), acute interstitial nephritis (less than methicillin)
 
--   Hepatic dysfunction may occur with dose of ≥12 gm/day.
+-   Hepatic dysfunction-more problematic with doses ≥12 gm/day (oxacillin \> nafcillin)
 
     -   LFTs usually increase 2–24 days after start of treatment, reversible.
+
+## Clinical role
+
+<br>
+
+-   Infections caused by MSSA, such as endocarditis, bloodstream infections, and skin and soft-tissue infections
+
+-   β-lactams kill staphylococci more quickly than vancomycin, so patients with MSSA infections who lack serious beta-lactam allergies should be switched to beta-lactams, such as antistaphylococcal penicillins or first-generation cephalosporins <!--# Double check treatment guidelines -->
+
+<br>
 
 ## References
