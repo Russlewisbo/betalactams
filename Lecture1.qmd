@@ -51,7 +51,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 :::
 
 ::: {.column width="50%"}
-![](https://i.makeagif.com/media/7-05-2015/V0HT6G.gif)
+![Sir Alexander Fleming in his laboratory, Pathé Films](https://i.makeagif.com/media/7-05-2015/V0HT6G.gif)
 :::
 :::::
 
@@ -92,24 +92,45 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 <br>
 
 ## Spectrum of activity {.smaller}
+
 <br> <br>
 
 ![](images/pcnspextrum.png){fig-align="center"}
 
-::: .aside
+::: aside
 Source: Sanford Guide Web
 
 ++ Preferred + activity; ± limited utility; 0 not recommended
 :::
 
-## Pharmacodynamics of bacterial killing
+## Pharmacodynamics of bacterial killing {.smaller background-image="images/killrate.png" background-opacity="0.1"}
+
+<br> <br>
+
+-   **β-lactam antibiotics exhibit relatively concentration-independent killing**
+    -   The rate of killing reaches its maximum very quickly as the drug concentration increases from the MIC to 4–6 times the MIC and falls precipitously when the drug concentration decline below the MIC
+
+    -   Related to mechanism of action: acylation of their targets, the β-lactam-binding proteins
+
+    -   There is a maximum proportion of the targets (β-lactambinding proteins) that can be acylated, with a large proportion of the β-lactam-binding proteins already acylated by the time bacterial stasis is achieved
+
+    -   As the percentage of target binding proteins that are acylated increases above the level of acylation that is associated with bacteriostasis, a bactericidal effect is seen
+
+    -   Once maximal acylation is achieved, the killing rates cannot increase any further. This explains why the killing rates for β-lactam drugs are maximal at a low multiple of the MIC
+-   [**% Time \> MIC is the pharmacodynamically linked variable**]{bg-color="#ffe536"}
+-   **Clinical implications:** Activity of β-lactams with short half-lives is optimized by prolonging drug exposure above the MIC (extended or continuous infusion)
+
+::: aside
+[@drusano2004]
+:::
 
 ## Pharmacokinetics: Natural penicillins
 
 <br>
 
-| Absorption | Penicillin V (oral) <br> penicillin G (IV) <br>benzathine penicillin (IM) <br> |
+|  |  |
 |------------------------------------|------------------------------------|
+| **Absorption** | Penicillin V (oral) <br> penicillin G (IV) <br>benzathine penicillin (IM) <br> |
 | **Distribution** |  |
 | **Metabolism** | Renally eliminated without metabolism |
 | **Elimination** | Rapid clearance (1hr) |
