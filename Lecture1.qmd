@@ -194,7 +194,7 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 <br>
 
-## Pharmacokinetics:  <br>Anti-staphylococcal penicillins {.smaller}
+## Pharmacokinetics: <br>Anti-staphylococcal penicillins {.smaller}
 
 <br> <br>
 
@@ -216,13 +216,47 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 <br>
 
--   Local phlebitis, fever, rash (4%), anaphylaxis (rare)- *problematic with frequent IV dosing*
+-   Local phlebitis, (*problematic with frequent IV dosing),* fever, rash (4%), anaphylaxis (rare)
 
--   \+ Coombs (rare), neutropenia (prolonged treatment), eosinophilia (22%), thrombocytopenia , *C. difficile* colitis (rare), increased LFTs, headache (rare), confusion (rare), acute interstitial nephritis (less than methicillin)
+-   \+ Coombs (rare), neutropenia (prolonged treatment), eosinophilia (22%), thrombocytopenia
+
+-   *C. difficile* colitis (rare)
+
+-   Increased LFTs, headache (rare), confusion (rare),
+
+-   Acute interstitial nephritis (less than methicillin)
 
 -   Hepatic dysfunction-more problematic with doses ≥12 gm/day (oxacillin \> nafcillin)
 
-    -   LFTs usually increase 2–24 days after start of treatment, reversible.
+    -   LFTs usually increase 2–24 days after start of treatment, reversible
+
+## Drug interactions {.smaller}
+
+<br>
+
+-   Flucloxacillin (also dicloxacillin?) activates the pregnane X receptor (PXR), which can induce the expression of CYP450 and UGT enzymes, and P-gP transporters
+
+![](images/clipboard-1261899633.png){width="600"}
+
+::: aside
+[@wei2016]
+:::
+
+## Mechanisms of Resistance {.smaller}
+
+![](images/resistance%20mechanisms.png){fig-align="center" width="800"}
+
+::: aside
+[@deoliveira2020]
+
+-   Methicillin resistance encoded by *mecA, mecC, which code for low-affinity PBP2a and PBP2c*
+
+-   Genes can be detected by latex agglutination test of PCR (nasal swabs)
+:::
+
+## Current resistance epidemiology
+
+![Source: ECDC Resistance Atlas; **Italy 26.6%**](images/MRSA.png){fig-align="center"}
 
 ## Clinical role
 
@@ -230,8 +264,42 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 -   Infections caused by MSSA, such as endocarditis, bloodstream infections, and skin and soft-tissue infections
 
--   β-lactams kill staphylococci more quickly than vancomycin, so patients with MSSA infections who lack serious beta-lactam allergies should be switched to beta-lactams, such as antistaphylococcal penicillins or first-generation cephalosporins <!--# Double check treatment guidelines -->
+-   β-lactams kill staphylococci more quickly than vancomycin, so patients with MSSA infections who lack serious beta-lactam allergies should be switched to beta-lactams, such as antistaphylococcal penicillins or first-generation cephalosporins
 
 <br>
+
+## Pharmacokinetics: Aminopenicillins {.smaller}
+
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Absorption**          | Ampicillin (IV) <br> Ampicillin-sulbactam (IV) <br> Amoxicillin (oral, 80% bioavail.) <br> Amoxicillin-clavulanate (oral 80% bioavail., IV) |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Distribution**        | -   0.25-0.36 L/kg                                                                                                                          |
+|                         |                                                                                                                                             |
+|                         | -   18-22% protein bound                                                                                                                    |
+|                         |                                                                                                                                             |
+|                         | -   500% bile:serum                                                                                                                         |
+|                         |                                                                                                                                             |
+|                         | -   5-10% CSF:blood (therapeutic for some pathogens)                                                                                        |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Metabolism**          | -   No metabolism                                                                                                                           |
+|                         |                                                                                                                                             |
+|                         | -   t½ 1.2-1.5 hr                                                                                                                           |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Elimination**         | ampicillin, amoxicillin, sulbactam- renal, clavulanate-hepatic, bile and renal                                                              |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Typical adult doses** | -   Ampicillin 1-2 gram IV q4-6h<br>                                                                                                        |
+|                         |                                                                                                                                             |
+|                         | -   Ampicillin-sulbactam : 3 gram IV q6h; up to 9 gram IV over 4hrs q8h for *Acinetobacter* spp. VAP<br>                                    |
+|                         |                                                                                                                                             |
+|                         | -   Amoxicillin 500-1000 mg TID; ER tab 775 mg once daily; <br>                                                                             |
+|                         |                                                                                                                                             |
+|                         | -   Amoxicillin-clavulanate 500-1000 mg ( 125-200 clav) twice daily <br>                                                                    |
+|                         |                                                                                                                                             |
+|                         | -   Amoxicillin-clavulanate 1000/200 IV q8h IV                                                                                              |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+
+::: aside
+Source: Sanford Guide
+:::
 
 ## References
