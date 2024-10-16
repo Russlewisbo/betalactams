@@ -97,13 +97,19 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ![](images/pcnspextrum.png){fig-align="center"}
 
+-   **Good:** *Treponema pallidum*, most streptococci, including *Streptococcus pneumoniae*
+
+-   **Moderate:** Enterococci
+
+-   **Poor:** Almost everything else (penicillinases, β-lactamases)
+
 ::: aside
 Source: Sanford Guide Web
 
 ++ Preferred + activity; ± limited utility; 0 not recommended
 :::
 
-## Pharmacodynamics of bacterial killing {.smaller background-image="images/killrate.png" background-opacity="0.1"}
+## Pharmacodynamics of **β-lactam** antibiotics {.smaller background-image="images/killrate.png" background-opacity="0.1"}
 
 <br> <br>
 
@@ -124,15 +130,96 @@ Source: Sanford Guide Web
 [@drusano2004]
 :::
 
-## Pharmacokinetics: Natural penicillins
+## Pharmacokinetics: Natural penicillins {.smaller}
+
+<br> <br>
+
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **Absorption**    | Penicillin VK (oral); bioavailibility 60-73% <br> Penicillin G (IV) <br>Benzathine penicillin (IM) <br> |
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **Distribution**  | -   0.35 L/kg                                                                                           |
+|                   |                                                                                                         |
+|                   | -   65% protein bound                                                                                   |
+|                   |                                                                                                         |
+|                   | -   500% bile:serum                                                                                     |
+|                   |                                                                                                         |
+|                   | -   5-10% CSF:blood (therapeutic for some pathogens)                                                    |
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **Metabolism**    | -   No metabolism                                                                                       |
+|                   |                                                                                                         |
+|                   | -   t½ 0.5 hr                                                                                           |
+|                   |                                                                                                         |
+|                   | -   Substrate of OAT transporters                                                                       |
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **Elimination**   | Renal 100%, impaired by probenicid                                                                      |
++-------------------+---------------------------------------------------------------------------------------------------------+
+| **Typical doses** | (Pen VK) 250-500 mg TID-QID before meals and at bedtime                                                 |
+|                   |                                                                                                         |
+|                   | (Low dose) 600,000-1.2 MU IM/day                                                                        |
+|                   |                                                                                                         |
+|                   | (High dose) Penicillin G: \> 20 MU IV daily                                                             |
++-------------------+---------------------------------------------------------------------------------------------------------+
+
+::: aside
+Source: Sanford Guide
+:::
+
+## CNS Toxicities {.smaller}
+
+![](images/seizues.png){fig-align="center"}
+
+The β-lactam ring structure is an important determinant of the epileptogenic properties. Evidence suggests that substitutions occurring at the 7-aminocephalosporanic or 6- aminopenicillanic acid (6-APA) positions may lead to alterations in epileptogenic activity. The thiazolidine ring and side chain length also plays a role in determining the pro-convulsive effects of β-lactams
+
+::: aside
+[@wanleenuwat2020]
+:::
+
+## Other adverse effects
 
 <br>
 
-|  |  |
-|------------------------------------|------------------------------------|
-| **Absorption** | Penicillin V (oral) <br> penicillin G (IV) <br>benzathine penicillin (IM) <br> |
-| **Distribution** |  |
-| **Metabolism** | Renally eliminated without metabolism |
-| **Elimination** | Rapid clearance (1hr) |
+-   Most serious reaction is immediate IgE-mediated anaphylaxis; incidence only 0.05% but 5-10% fatal. Other IgE-mediated reactions: urticaria, angioedema, laryngeal edema, bronchospasm
+
+    -   Morbilliform rash after 72 hours is not IgE-mediated and not serious
+
+-   Serious late allergic reactions: Coombs-positive hemolytic anemia, neutropenia, thrombocytopenia, serum sickness, interstitial nephritis, hepatitis, eosinophilia, drug fever
+
+## Clinical role {.smaller}
+
+<br>
+
+-   Poor empiric choice for most infections because of resistance
+
+-   Drug of choice for syphilis particularly neurosyphilis (although use of ceftriaxone is increasing)
+
+<br>
+
+## Pharmacokinetics:  <br>Anti-staphylococcal penicillins {.smaller}
+
+<br> <br>
+
++-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Absorption**    | Dicloxacillin (oral- bioavailibility 60-73%) <br> Methicillin (IV-not used); <br> Flucloxacillin (oral and IV, bioavailibility 50%) <br> Nafcillin (IV)<br>Oxacillin (IV) <br> |
++-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Distribution**  | -   0.1-0.5 L/kg                                                                                                                                                               |
+|                   |                                                                                                                                                                                |
+|                   | -   \>95% protein bound                                                                                                                                                        |
++-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Metabolism**    | Not metabolised but some drugs can induce CYP P450 (dicloxacillin, flucloxacillin)                                                                                             |
++-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Elimination**   | Biliary (no dosing adjustement for renal impairment)                                                                                                                           |
++-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Typical doses** | 125-500 every 6h (oral); 1-2 gram IV every 4-6h;                                                                                                                               |
++-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### **Adverse Effects**
+
+-   Local phlebitis, fever, rash (4%), anaphylaxis (rare)- *problematic with frequent IV dosing*
+
+-   \+ Coombs (rare), neutropenia (rare), eosinophilia (22%), thrombocytopenia (rare), *C. difficile* colitis (rare), increased LFTs, headache (rare), confusion (rare), acute interstitial nephritis (less than methicillin)
+
+-   Hepatic dysfunction may occur with dose of ≥12 gm/day.
+
+    -   LFTs usually increase 2–24 days after start of treatment, reversible.
 
 ## References
