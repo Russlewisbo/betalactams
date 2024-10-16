@@ -21,7 +21,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 3: Beta-lactams and beta-lacatamases {background-image="images/flemming1.png" background-opacity="0.2"}
+## Lecture 3: β-lactams and β-lactamases {background-image="images/flemming1.png" background-opacity="0.2"}
 
 <br> <br> <br> <br> <br>
 
@@ -31,7 +31,49 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
 
-## Agenda
+## Outline
+
+<br>
+
+-   Antibiotic classes
+-   Mechanism of action
+-   Pharmacokinetics/Pharmacodynamics
+-   Resistance
+-   Role in therapy
+
+## Discovery of penicillin
+
+<br> <br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/pcn2.png)
+:::
+
+::: {.column width="50%"}
+![](https://i.makeagif.com/media/7-05-2015/V0HT6G.gif)
+:::
+:::::
+
+::: aside
+[@fleming_1929]
+:::
+
+## Natural penicillins
+
+![](images/natural%20penicillins.png){fig-align="center" width="800"}
+
+## Isoxazolyl penicillins {.smaller}
+
+![](images/isoxyl%20penicillins.png){fig-align="center" width="700"}
+
+## Aminopenicillins {.smaller}
+
+![](images/amino.png){fig-align="center" width="800"}
+
+## Extended-spectrum penicillins {.smaller}
+
+![](images/extended%20spectrum%20penicillins.png){fig-align="center" width="500"}
 
 ## Mechanism of action
 
@@ -39,12 +81,37 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ::::: columns
 ::: {.column width="50%"}
-![ß-Lactams: Mechanisms of Action and Resistance](https://i.makeagif.com/media/4-07-2017/l7_PRO.gif)
+![Inhibition of transpeptidase (PBP)](https://i.makeagif.com/media/4-07-2017/l7_PRO.gif)
 :::
 
 ::: {.column width="50%"}
-![How penicillin works.](https://i.makeagif.com/media/10-05-2017/e3c7kf.gif)
+![Lysis of growing bacterial cells](https://i.makeagif.com/media/10-05-2017/e3c7kf.gif)
 :::
 :::::
 
 <br>
+
+## Spectrum of activity {.smaller}
+<br> <br>
+
+![](images/pcnspextrum.png){fig-align="center"}
+
+::: .aside
+Source: Sanford Guide Web
+
+++ Preferred + activity; ± limited utility; 0 not recommended
+:::
+
+## Pharmacodynamics of bacterial killing
+
+## Pharmacokinetics: Natural penicillins
+
+<br>
+
+| Absorption | Penicillin V (oral) <br> penicillin G (IV) <br>benzathine penicillin (IM) <br> |
+|------------------------------------|------------------------------------|
+| **Distribution** |  |
+| **Metabolism** | Renally eliminated without metabolism |
+| **Elimination** | Rapid clearance (1hr) |
+
+## References
