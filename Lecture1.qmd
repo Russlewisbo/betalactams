@@ -212,7 +212,7 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 | **Typical doses** | 125-500 every 6h (oral); 1-2 gram IV every 4-6h                                                                                                                                |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-## **Adverse Effects**
+## Adverse Effects
 
 <br>
 
@@ -254,9 +254,11 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 -   Genes can be detected by latex agglutination test of PCR (nasal swabs)
 :::
 
-## Current resistance epidemiology
+## Current resistance epidemiology {.smaller}
 
-![Source: ECDC Resistance Atlas; **Italy 26.6%**](images/MRSA.png){fig-align="center"}
+<iframe width="1200" height="900" src="https://resistancemap.onehealthtrust.org/AntibioticResistance.php" title="Resistance Map">
+
+</iframe>
 
 ## Clinical role
 
@@ -267,6 +269,36 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 -   β-lactams kill staphylococci more quickly than vancomycin, so patients with MSSA infections who lack serious beta-lactam allergies should be switched to beta-lactams, such as antistaphylococcal penicillins or first-generation cephalosporins
 
 <br>
+
+## Ambler classification of beta-lactamases {.smaller}
+
+<br>
+
+Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
+
+![](images/Ambler.png){fig-align="center" width="800"}
+
+::: aside
+[@noster2021]
+:::
+
+## Spectrum: Aminopenicillins {.smaller}
+
+<br>
+
+![](images/pcnspextrum.png){fig-align="center"}
+
+::: aside
+Source: Sanford Guide Web
+
+++ Preferred + activity; ± limited utility; 0 not recommended
+:::
+
+## Amoxicillin-clavulanate resistance
+
+<iframe width="1200" height="900" src="https://resistancemap.onehealthtrust.org/AntibioticResistance.php" title="Resistance Map">
+
+</iframe>
 
 ## Pharmacokinetics: Aminopenicillins {.smaller}
 
@@ -322,20 +354,116 @@ Source: Sanford Guide
 
 ![](images/huttner.png){fig-align="center"}
 
-::: .aside
+::: aside
 [@huttner2020]
+:::
+
+## Adverse effects {.smaller}
+
+<br>
+
+-   Persons with infectious mononucleosis, i.e., Epstein-Barr virus (EBV), are likely to develop rash. It is not a permanent allergy.
+
+-   In patients with true Amoxicillin allergy, increased risk of cross allergenicity with oral cephalosporins that have an identical R1 side chain: i.e., cefadroxil and cefprozil.
+
+-   Hepatotoxicity linked to clavulanic acid. Amoxicillin-clavulanate is most common cause,13-23%, of drug-induced cholestatic liver injury.
+
+    -   Onset delayed several days after end of antibiotic therapy.
+
+    -   Genetic predisposition. Usually mild; rare liver failure
+
+-   Treatment stopped due to adverse affects (2-4.4%),
+
+    -   fever, rash (3%), anaphylaxis (rare), neutropenia, eosinophilia, thrombocytopenia (rare), nausea/vomiting (3%), diarrhea (9%), *C. difficile* colitis, increased LFTs, headache, seizures (rare).
+
+-   With bid regimen, less clavulanate & less diarrhea.
+
+-   In patients with immediate allergic reaction to amoxicillin-clavulanate, 1/3 are due to the clavulanate. Diarrhea due to clavulanate.
+
+## What is the clinical role of aminopenicllins <br> +/-β lactamase inhibitor?
+
+<br>
+
+-   Ampicillin is a drug of choice for susceptible enterococci.
+    -   Enterococcus faecalis is almost always susceptible; Enterococcus faecium is usually resistant.
+-   These drugs are often listed as alternative regimens for urinary tract infections (UTIs) in pregnant women because they are pregnancy category B and eliminated renally
+-   Amoxicillin/clavulanate is used for upper and lower respiratory tract infections when beta-lactamase–producing organisms are found or suspected.
+    -   It can also be useful for UTIs when resistance to other drugs is seen, but it should not be given for a short 3-day course, as with fluoroquinolones or TMP/SMX.
+
+## Extended-spectrum <br>(anti-pseudomonal) penicillins {.smaller}
+
+![](images/extended%20spectrum%20penicillins.png){fig-align="center" width="500"}
+
+## Spectrum of piperacillin-tazobactam
+
+<br>
+
+![](images/pcnspextrum.png){fig-align="center"}
+
+::: aside
+Source: Sanford Guide Web
+
+++ Preferred + activity; ± limited utility; 0 not recommended
 :::
 
 ## Ambler classification of beta-lactamases {.smaller}
 
 <br>
 
-Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
+Should piperacillin-tazobactam be used for severe ESBL infections?
 
 ![](images/Ambler.png){fig-align="center" width="800"}
 
-::: .aside
+::: aside
 [@noster2021]
 :::
 
+## MERINO trial
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/MERINO1.png)
+:::
+
+::: {.column width="50%"}
+![](images/MERINO2.png)
+:::
+:::::
+
+::: aside
+[@harris2018]
+:::
+
+## Pharmacokinetics of piperacillin-tazobactam
+
+<br>
+
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| **Absorption**          | IV only                                                                                                                                  |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| **Distribution**        | -   0.4 L/kg                                                                                                                             |
+|                         |                                                                                                                                          |
+|                         | -   16% piperacillin; 48% tazobactam                                                                                                     |
+|                         |                                                                                                                                          |
+|                         | -   \>100% bile:serum                                                                                                                    |
+|                         |                                                                                                                                          |
+|                         | -   CSF:blood limiteddata                                                                                                                |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| **Metabolism**          | -   No metabolism                                                                                                                        |
+|                         |                                                                                                                                          |
+|                         | -   t½ 1 hr                                                                                                                              |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| **Elimination**         | ampicillin, tazobactam-renal                                                                                                             |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| **Typical adult doses** | -   **Typical dosing:** Piperacillin/tazobactam 3.375 gram IV q6h of 4.5 gram IV q8h (severe infections)                                 |
+|                         |                                                                                                                                          |
+|                         | -   ***P. aeruginosa*** **pneumonia**: 3.375 g IV q4h or 4.5 gram IV q6h combined with antipseudomnal aminoglycosides or fluoroquinolone |
+|                         |                                                                                                                                          |
+|                         | -   **Prolonged infusion:** 4.5 gram IV over 30 minutes followed by 3.375 gram IV infused over 4 hours                                   |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+
 ## References
+
+<br>
