@@ -27,7 +27,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 **Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
 
-![](unipd.png){.absolute top="550" left="950" width="100" height="100"}
+![](images/unipd.png){.absolute top="550" left="950" width="100" height="100"}
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
 
@@ -300,6 +300,42 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 ::: aside
 Source: Sanford Guide
+:::
+
+## Amoxicillin/clavulanate dosing {background-image="images/amox.png" background-opacity="0.1"}
+
+<br>
+
+-   Plasma amoxicillin exposures are generally linear and proportional at doses up to 750 mg, after which absorption becomes saturated and bioavailability decreases from approximately 60% at 750 mg to approximately 55% at 875 mg or 1000 mg and to approximately 35% at 2000 mg
+    -   **Standard dose**: (oral, e.g., UTI): (0.5 g amoxicillin + 0.125 g clavulanic acid) x TID
+    -   **UTI dose:** (0.5 g amoxicillin + 0.125 g clavulanic acid) TID
+    -   **High dose:** (0.875 g amoxicillin + 0.125 g clavulanic acid) TID
+    -   **High dose IV:** (2 g amoxicillin + 0.2 g clavulanic acid) q8h
+
+::: aside
+[@huttner2020] and EUCAST Clinical Breakpoint Tables v. 14.0
+:::
+
+## Empiric considerations for amox/clav use
+
+<br>
+
+![](images/huttner.png){fig-align="center"}
+
+::: .aside
+[@huttner2020]
+:::
+
+## Ambler classification of beta-lactamases {.smaller}
+
+<br>
+
+Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
+
+![](images/Ambler.png){fig-align="center" width="800"}
+
+::: .aside
+[@noster2021]
 :::
 
 ## References
