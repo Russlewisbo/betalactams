@@ -118,10 +118,6 @@ Source: Sanford Guide Web
 
     -   Related to mechanism of action: acylation of their targets, the β-lactam-binding proteins
 
-    -   There is a maximum proportion of the targets (β-lactambinding proteins) that can be acylated, with a large proportion of the β-lactam-binding proteins already acylated by the time bacterial stasis is achieved
-
-    -   As the percentage of target binding proteins that are acylated increases above the level of acylation that is associated with bacteriostasis, a bactericidal effect is seen
-
     -   Once maximal acylation is achieved, the killing rates cannot increase any further. This explains why the killing rates for β-lactam drugs are maximal at a low multiple of the MIC
 -   [**% Time \> MIC is the pharmacodynamically linked variable**]{bg-color="#ffe536"}
 -   **Clinical implications:** Activity of β-lactams with short half-lives is optimized by prolonging drug exposure above the MIC (extended or continuous infusion)
@@ -166,7 +162,7 @@ Source: Sanford Guide
 
 ## CNS Toxicities {.smaller}
 
-![](images/seizues.png){fig-align="center"}
+![](images/seizues.png){fig-align="center" width="500"}
 
 The β-lactam ring structure is an important determinant of the epileptogenic properties. Evidence suggests that substitutions occurring at the 7-aminocephalosporanic or 6- aminopenicillanic acid (6-APA) positions may lead to alterations in epileptogenic activity. The thiazolidine ring and side chain length also plays a role in determining the pro-convulsive effects of β-lactams
 
@@ -204,6 +200,8 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 | **Distribution**  | -   0.1-0.5 L/kg                                                                                                                                                               |
 |                   |                                                                                                                                                                                |
 |                   | -   \>95% protein bound                                                                                                                                                        |
+|                   |                                                                                                                                                                                |
+|                   | -   Limited data on CNS penetration                                                                                                                                            |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Metabolism**    | Not metabolised but some drugs can induce CYP P450 (dicloxacillin, flucloxacillin)                                                                                             |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -236,7 +234,7 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 -   Flucloxacillin (also dicloxacillin?) activates the pregnane X receptor (PXR), which can induce the expression of CYP450 and UGT enzymes, and P-gP transporters
 
-![](images/clipboard-1261899633.png){width="600"}
+    ![](images/clipboard-1261899633.png)
 
 ::: aside
 [@wei2016]
@@ -244,7 +242,7 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 ## Mechanisms of Resistance {.smaller}
 
-![](images/resistance%20mechanisms.png){fig-align="center" width="800"}
+![](images/resistance%20mechanisms.png){fig-align="center" width="700"}
 
 ::: aside
 [@deoliveira2020]
@@ -270,17 +268,7 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 <br>
 
-## Ambler classification of beta-lactamases {.smaller}
 
-<br>
-
-Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
-
-![](images/Ambler.png){fig-align="center" width="800"}
-
-::: aside
-[@noster2021]
-:::
 
 ## Spectrum: Aminopenicillins {.smaller}
 
@@ -292,6 +280,18 @@ Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
 Source: Sanford Guide Web
 
 ++ Preferred + activity; ± limited utility; 0 not recommended
+:::
+
+## Ambler classification of beta-lactamases {.smaller}
+
+<br>
+
+Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
+
+![](images/Ambler.png){fig-align="center" width="800"}
+
+::: aside
+[@noster2021]
 :::
 
 ## Amoxicillin-clavulanate resistance
@@ -362,33 +362,33 @@ Source: Sanford Guide
 
 <br>
 
--   Persons with infectious mononucleosis, i.e., Epstein-Barr virus (EBV), are likely to develop rash. It is not a permanent allergy.
+-   Persons with infectious mononucleosis, i.e., Epstein-Barr virus (EBV), are likely to develop rash. It is not a permanent allergy
 
--   In patients with true Amoxicillin allergy, increased risk of cross allergenicity with oral cephalosporins that have an identical R1 side chain: i.e., cefadroxil and cefprozil.
+-   In patients with true Amoxicillin allergy, increased risk of cross allergenicity with oral cephalosporins that have an identical R1 side chain: i.e., cefadroxil and cefprozil
 
--   Hepatotoxicity linked to clavulanic acid. Amoxicillin-clavulanate is most common cause,13-23%, of drug-induced cholestatic liver injury.
+-   Hepatotoxicity linked to clavulanic acid. Amoxicillin-clavulanate is most common cause,13-23%, of drug-induced cholestatic liver injury
 
-    -   Onset delayed several days after end of antibiotic therapy.
+    -   Onset delayed several days after end of antibiotic therapy
 
     -   Genetic predisposition. Usually mild; rare liver failure
 
--   Treatment stopped due to adverse affects (2-4.4%),
+-   Treatment stopped due to adverse affects (2-4.4%)
 
-    -   fever, rash (3%), anaphylaxis (rare), neutropenia, eosinophilia, thrombocytopenia (rare), nausea/vomiting (3%), diarrhea (9%), *C. difficile* colitis, increased LFTs, headache, seizures (rare).
+    -   fever, rash (3%), anaphylaxis (rare), neutropenia, eosinophilia, thrombocytopenia (rare), nausea/vomiting (3%), diarrhea (9%), *C. difficile* colitis, increased LFTs, headache, seizures (rare)
 
--   With bid regimen, less clavulanate & less diarrhea.
+-   With bid regimen, less clavulanate & less diarrhea
 
--   In patients with immediate allergic reaction to amoxicillin-clavulanate, 1/3 are due to the clavulanate. Diarrhea due to clavulanate.
+-   In patients with immediate allergic reaction to amoxicillin-clavulanate, 1/3 are due to the clavulanate. Diarrhea due to clavulanate
 
 ## What is the clinical role of aminopenicllins <br> +/-β lactamase inhibitor?
 
 <br>
 
--   Ampicillin is a drug of choice for susceptible enterococci.
-    -   Enterococcus faecalis is almost always susceptible; Enterococcus faecium is usually resistant.
+-  **Ampicillin is a drug of choice for susceptible enterococci**
+    -   Enterococcus faecalis is almost always susceptible; Enterococcus faecium is usually resistant
 -   These drugs are often listed as alternative regimens for urinary tract infections (UTIs) in pregnant women because they are pregnancy category B and eliminated renally
--   Amoxicillin/clavulanate is used for upper and lower respiratory tract infections when beta-lactamase–producing organisms are found or suspected.
-    -   It can also be useful for UTIs when resistance to other drugs is seen, but it should not be given for a short 3-day course, as with fluoroquinolones or TMP/SMX.
+-   **Amoxicillin/clavulanate is used for upper and lower respiratory tract infections when beta-lactamase–producing organisms are found or suspected**
+    -   It can also be useful for UTIs when resistance to other drugs is seen, but it should not be given for a short 3-day course, as with fluoroquinolones or TMP/SMX
 
 ## Extended-spectrum <br>(anti-pseudomonal) penicillins {.smaller}
 
@@ -436,7 +436,7 @@ Should piperacillin-tazobactam be used for severe ESBL infections?
 [@harris2018]
 :::
 
-## Pharmacokinetics of piperacillin-tazobactam
+## Pharmacokinetics of piperacillin-tazobactam {.smaller}
 
 <br>
 
