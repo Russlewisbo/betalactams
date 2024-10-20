@@ -204,6 +204,14 @@ section.has-dark-background {
   }
 }
 
+.table-grid {
+    font-family: Space Mono;
+    font-size: 14pt;
+    position: relative;
+    top: 40px;
+    left: 40px;
+ }
+
 #title-slide {
   text-align: $presentation-title-slide-text-align;
 }
