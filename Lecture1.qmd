@@ -149,6 +149,8 @@ Source: Sanford Guide Web
 +-------------------+---------------------------------------------------------------------------------------------------------+
 | **Elimination**   | Renal 100%, impaired by probenicid                                                                      |
 +-------------------+---------------------------------------------------------------------------------------------------------+
+| **PK:PD target**  | ≥ 40-50% *f*Time~\>MIC~                                                                                 |
++-------------------+---------------------------------------------------------------------------------------------------------+
 | **Typical doses** | (Pen VK) 250-500 mg TID-QID before meals and at bedtime                                                 |
 |                   |                                                                                                         |
 |                   | (Low dose) 600,000-1.2 MU IM/day                                                                        |
@@ -319,6 +321,8 @@ Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
 +-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
 | **Elimination**         | ampicillin, amoxicillin, sulbactam- renal, clavulanate-hepatic, bile and renal                                                              |
 +-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **PK:PD target**        | ≥ 40-50% *f*Time~\>MIC~                                                                                                                     |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
 | **Typical adult doses** | -   Ampicillin 1-2 gram IV q4-6h<br>                                                                                                        |
 |                         |                                                                                                                                             |
 |                         | -   Ampicillin-sulbactam : 3 gram IV q6h; up to 9 gram IV over 4hrs q8h for *Acinetobacter* spp. VAP<br>                                    |
@@ -457,6 +461,8 @@ Should piperacillin-tazobactam be used for severe ESBL infections?
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | **Elimination**         | Renal, may interfere with SeCr excretion                                                                                                 |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| **PK:PD target**        | ≥ 40-50% *f*Time~\>MIC~                                                                                                                  |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | **Typical adult doses** | -   **Typical dosing:** Piperacillin/tazobactam 3.375 gram IV q6h of 4.5 gram IV q8h (severe infections)                                 |
 |                         |                                                                                                                                          |
 |                         | -   ***P. aeruginosa*** **pneumonia**: 3.375 g IV q4h or 4.5 gram IV q6h combined with antipseudomnal aminoglycosides or fluoroquinolone |
@@ -535,7 +541,7 @@ Effect size= 2% reduction. NNT of 50 patients to prevent 1 death
 [@pais2020]
 :::
 
-## Monobactam
+## Monobactams
 
 ## References {.smaller}
 
