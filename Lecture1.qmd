@@ -268,8 +268,6 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 <br>
 
-
-
 ## Spectrum: Aminopenicillins {.smaller}
 
 <br>
@@ -384,7 +382,7 @@ Source: Sanford Guide
 
 <br>
 
--  **Ampicillin is a drug of choice for susceptible enterococci**
+-   **Ampicillin is a drug of choice for susceptible enterococci**
     -   Enterococcus faecalis is almost always susceptible; Enterococcus faecium is usually resistant
 -   These drugs are often listed as alternative regimens for urinary tract infections (UTIs) in pregnant women because they are pregnancy category B and eliminated renally
 -   **Amoxicillin/clavulanate is used for upper and lower respiratory tract infections when beta-lactamase–producing organisms are found or suspected**
@@ -449,13 +447,13 @@ Should piperacillin-tazobactam be used for severe ESBL infections?
 |                         |                                                                                                                                          |
 |                         | -   \>100% bile:serum                                                                                                                    |
 |                         |                                                                                                                                          |
-|                         | -   CSF:blood limiteddata                                                                                                                |
+|                         | -   CSF:blood pentration- limited data                                                                                                   |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | **Metabolism**          | -   No metabolism                                                                                                                        |
 |                         |                                                                                                                                          |
 |                         | -   t½ 1 hr                                                                                                                              |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| **Elimination**         | ampicillin, tazobactam-renal                                                                                                             |
+| **Elimination**         | Renal, may interfere with SeCr excretion                                                                                                 |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | **Typical adult doses** | -   **Typical dosing:** Piperacillin/tazobactam 3.375 gram IV q6h of 4.5 gram IV q8h (severe infections)                                 |
 |                         |                                                                                                                                          |
@@ -463,6 +461,8 @@ Should piperacillin-tazobactam be used for severe ESBL infections?
 |                         |                                                                                                                                          |
 |                         | -   **Prolonged infusion:** 4.5 gram IV over 30 minutes followed by 3.375 gram IV infused over 4 hours                                   |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+
+## BLING III
 
 ## References
 
