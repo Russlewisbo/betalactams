@@ -558,9 +558,9 @@ Effect size= 2% reduction. NNT of 50 patients to prevent 1 death
 [@abdul-aziz2024]
 :::
 
-## Adverse effects {.smaller}
+## Adverse effects 
 
-<br> <br>
+<br> 
 
 -   Platelet dysfunction can occur in patients with renal failure, due to impaired platelet aggregation
 -   Drug-induced immune thrombocytopenia
@@ -631,6 +631,8 @@ Exception: Aztreonam has R1 side-chain identical to that of ceftazidime and cefi
 
 ## Pharmacokinetics of aztreonam {.smaller}
 
+<br> <br>
+
 +-------------------------+---------------------------------------------------------------------------+
 | **Absorption**          | IV only                                                                   |
 +-------------------------+---------------------------------------------------------------------------+
@@ -670,7 +672,7 @@ Exception: Aztreonam has R1 side-chain identical to that of ceftazidime and cefi
 
 -   Confusion, dizziness
 
-## Summary-Pencillins
+## Summary-Pencillins{background-image="images/flemming1.png" background-opacity="0.1"}
 
 <br>
 
