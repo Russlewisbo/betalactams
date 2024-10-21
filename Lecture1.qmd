@@ -296,11 +296,11 @@ Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
 [@noster2021]
 :::
 
-## Mechanisms of resistance to beta-lactamase inhibitors
+## Mechanisms of resistance to <br>beta-lactamase inhibitors
 
 <br>
 
--   **Intrinsic (e.g. 1st-Gen BLIs don’t work against AmpC or Carbapenemases)**
+-   **Intrinsic (e.g., 1st-Gen BLIs don’t work against AmpC or Carbapenemases)**
 
 -   **BLI-R beta lactamases (point mutation —\> less binding of 1st-gen BLIs)**
 
@@ -356,6 +356,7 @@ Source: Sanford Guide
 
 ## Beta-lactamase inhibitors {.smaller}
 
+::: smaller
 +------------------------+--------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
 |                        | Clavulanic acid                                                                            | Sulbactam                                                                                                                                                   | Tazobactam                                           |
 +========================+============================================================================================+=============================================================================================================================================================+======================================================+
@@ -375,12 +376,13 @@ Source: Sanford Guide
 |                        |                                                                                            |                                                                                                                                                             |                                                      |
 |                        |                                                                                            | Carbapenemases                                                                                                                                              |                                                      |
 +------------------------+--------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+:::
 
-::: aside
+<br>
+
 -   These are structurally similar to penicillin, and target class A including ESBL (but not KPC), but have no activity against class B (MBL), C (AmpC) or D (OXA) beta lactamases.
 
 -   Act as ‘suicide inhibitors’ —\> covalently bind serine residue in binding site (many molecules of BLI per beta-lactamase required to produce inhibition)
-:::
 
 ## Amoxicillin/clavulanate dosing {background-image="images/amox.png" background-opacity="0.1"}
 
@@ -526,9 +528,7 @@ Should piperacillin-tazobactam be used for severe ESBL infections?
 
 ## BLING III- Enrolment criteria
 
-<br>
-
-![](images/bling2.png){fig-align="center" width="800"}
+![](images/bling2.png){fig-align="center" width="700"}
 
 ::: aside
 [@dulhunty2024]
@@ -560,44 +560,51 @@ Effect size= 2% reduction. NNT of 50 patients to prevent 1 death
 
 ## Adverse effects {.smaller}
 
+<br> <br>
+
 -   Platelet dysfunction can occur in patients with renal failure, due to impaired platelet aggregation
 -   Drug-induced immune thrombocytopenia
 -   Allergic reactions can occur with any of the beta-lactam antibiotics.
--   Treatment stopped due to adverse effects:
-    -   (3.2%), local phlebitis (1%), fever (2%), rash (4%)
-    -   serum sickness, positive Coombs, neutropenia, eosinophilia, thrombocytopenia, increased PT/PTT, - nausea/vomiting (7%), diarrhea (11%), C. difficile colitis,
-    -   increased LFTs, increased BUN/Creatinine, headache (8%), confusion (rare), seizures (rare).
-    -   hypokalemia (Antibiotics 2023;12:240).
+-   Treatment stopped due to adverse effects: (3.2%):
+    -   Local phlebitis (1%), fever (2%), rash (4%) - Serum sickness, positive Coombs, neutropenia, eosinophilia, thrombocytopenia, increased PT/PTT, - nausea/vomiting (7%), diarrhea (11%), C. difficile colitis, - Increased LFTs, increased BUN/Creatinine, headache (8%), confusion (rare), seizures (rare). - Hypokalemia
 
-## Increased risk of renal failure with vancomycin? {.smaller}
+## Increased risk of renal failure with vancomycin? {background-image="images/kidney-1.svg" background-opacity="0.2"}
 
 <br>
 
 -   **Does combining vancomycin with piperacillin-tazobactam amplify the risk of vancomycin nephrotoxicity?**
     -   Many observational retrospective studies have reported an increased risk of acute kidney injury in association with the combination of piperacillin-tazobactam and vancomycin as compared to either drug alone
     -   No reported increased risk of AKI if vancomycin is combined with cefepime or meropenem
--   **The attributable nephrotoxicity due to vancomycin due in part to multiple confounders**
-    -   In virtually all the pertinent studies the acute kidney injury endpoints utilized serum creatinine changes as a surrogate marker for changes in the glomerular filtration rate
-    -   In a rat model of vancomycin nephrotoxicity, there was a lack of augmentation of toxicity with concomitant piperacillin/tazobactam . Rather than changes in serum creatinine, a specific marker of tubular toxicity was utilized
-    -   The authors speculate that the rise in serum creatinine with piperacillin/tazobactam is the consequence of piperacillin competing with creatinine for tubular secretion. In short, a functional and not toxic marker
+-   **The attributable nephrotoxicity due to vancomycin due in part to multiple con founders**
+    -   Animal studies suggest "injury" is a consequence of competetion for tubular secretion of creatinine
 
 ::: aside
 [@pais2020]
 :::
 
-## Monobactams
+## Monobactams {.smaller}
 
 <br>
 
-![](images/aztreonam.png){fig-align="center" width="800"}
+![](images/aztreonam.png){fig-align="center" width="400"}
 
-## Coming soon
+## Coming soon...
 
 <br>
 
-![](images/comingsoon.png){fig-align="center"}
+<center>Aztreonam-avibactam!</center>
 
-## 
+<br>
+
+![](images/comingsoon.png){fig-align="center" width="600"}
+
+## Aztreonam spectrum of action {.smaller}
+
+<br> <br>
+
+![](images/aztreonam_spectrum.png)
+
+-   Only gram-negative bacteria (no ESBL,
 
 ## References {.smaller}
 
