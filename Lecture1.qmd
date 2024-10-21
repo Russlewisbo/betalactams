@@ -595,7 +595,7 @@ Effect size= 2% reduction. NNT of 50 patients to prevent 1 death
 ![](images/aztreonam_spectrum.png)
 
 -   Only gram-negative with some *P. aeruginosa* coverage
--   No useful activity against gram-postiive bacteria or anaerobes
+-   No useful activity against gram-positive bacteria or anaerobes
 -   However, degraded by Class A and C beta-lactamases
 
 ## Safe drug for penicillin allergic patients?
@@ -616,7 +616,7 @@ Exception: Aztreonam has R1 side-chain identical to that of ceftazidime and cefi
 [@castells.etal_2019]
 :::
 
-## Coming soon...{.smaller}
+## Coming soon... {.smaller}
 
 <br>
 
@@ -629,7 +629,56 @@ Exception: Aztreonam has R1 side-chain identical to that of ceftazidime and cefi
 -   The combination restores activity against carbapenase-producing organisms
 -   Avoids use of ceftazime-avibactam + aztreonam
 
-## 
+## Pharmacokinetics of aztreonam {.smaller}
+
++-------------------------+---------------------------------------------------------------------------+
+| **Absorption**          | IV only                                                                   |
++-------------------------+---------------------------------------------------------------------------+
+| **Distribution**        | -   Aztreonam 0.28 L/kg, 38% protein binding                              |
+|                         | -   Avibactam 0.55 L/kg, 3% protein binding                               |
++-------------------------+---------------------------------------------------------------------------+
+| **Metabolism**          | -   No metabolism                                                         |
+|                         |                                                                           |
+|                         | -   t½ 2-3 hours for both aztreonam and avibactam                         |
+|                         |                                                                           |
+|                         | -   Bile penetration: 115-400% aztroenam                                  |
+|                         |                                                                           |
+|                         | -   CSF penetration: 3-52%                                                |
++-------------------------+---------------------------------------------------------------------------+
+| **Elimination**         | Renal for both aztreonam and avibactam                                    |
++-------------------------+---------------------------------------------------------------------------+
+| **PK:PD target**        | ≥ 40-50% *f*Time~\>MIC~                                                   |
++-------------------------+---------------------------------------------------------------------------+
+| **Typical adult doses** | -   2 grams IV q6-8h                                                      |
+|                         |                                                                           |
+|                         | -   2 gm/0.67 gm (aztreonam-avibactam) IV load, then 1.5 gm/0.5 gm IV q6h |
+|                         |                                                                           |
+|                         | -   Infuse maintenance doses over 3 hours                                 |
++-------------------------+---------------------------------------------------------------------------+
+
+## Aztreonam (avibactam) adverse effects
+
+<br>
+
+-   GI: nausea, vomiting, diarrhea, *C. difficile* infection, abdominal pain
+
+-   Skin: rash, anaphylaxis
+
+-   Liver: increased AST, ALT
+
+-   Hematologic: anemia, thrombocytopenia
+
+-   Confusion, dizziness
+
+## Summary-Pencillins
+
+<br>
+
+-   For select pathogens, still some of the rapidly killing agents
+-   Short t½ = not the most practical agents
+-   Time \> MIC pharmacodynamics, + short t½= activity maximized with prolonged infusions
+-   Resistance, particularly ESBL, Amp-C have blunted broad-spectrum
+-   New β-lactamase inhibitors can revive niche agents
 
 ## References {.smaller}
 
