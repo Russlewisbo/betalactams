@@ -588,23 +588,48 @@ Effect size= 2% reduction. NNT of 50 patients to prevent 1 death
 
 ![](images/aztreonam.png){fig-align="center" width="400"}
 
-## Coming soon...
-
-<br>
-
-<center>Aztreonam-avibactam!</center>
-
-<br>
-
-![](images/comingsoon.png){fig-align="center" width="600"}
-
-## Aztreonam spectrum of action {.smaller}
+## Aztreonam: Spectrum of activity
 
 <br> <br>
 
 ![](images/aztreonam_spectrum.png)
 
--   Only gram-negative bacteria (no ESBL,
+-   Only gram-negative with some *P. aeruginosa* coverage
+-   No useful activity against gram-postiive bacteria or anaerobes
+-   However, degraded by Class A and C beta-lactamases
+
+## Safe drug for penicillin allergic patients?
+
+<br>
+
+::::: columns
+::: {.column width="40%"}
+![](images/sidechains.png){fig-align="right" width="250"}
+:::
+
+::: {.column width="60%"}
+Exception: Aztreonam has R1 side-chain identical to that of ceftazidime and cefiderocol, so in those with allergy to that side-chain, there may be cross-sensitivity
+:::
+:::::
+
+::: aside
+[@castells.etal_2019]
+:::
+
+## Coming soon...{.smaller}
+
+<br>
+
+<center>Aztreonam-avibactam!</center>
+
+![](images/comingsoon.png){fig-align="center" width="600"}
+
+-   Why combine?- Aztreonam is not hydrolyzed by metallo-lactamases (class B), but is degraded by some Ambler class A and C β-lactamases
+-   Avibactam is an inhibitor of serine β-lactamases (Class A and C) and some Class D (OXA-48)
+-   The combination restores activity against carbapenase-producing organisms
+-   Avoids use of ceftazime-avibactam + aztreonam
+
+## 
 
 ## References {.smaller}
 
