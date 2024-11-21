@@ -622,12 +622,13 @@ Exception: Aztreonam has R1 side-chain identical to that of ceftazidime and cefi
 
 <center>Aztreonam-avibactam!</center>
 
-![](images/comingsoon.png){fig-align="center" width="600"}
+![](images/comingsoon.png){fig-align="center" width="500"}
 
 -   Why combine?- Aztreonam is not hydrolyzed by metallo-lactamases (class B), but is degraded by some Ambler class A and C β-lactamases
 -   Avibactam is an inhibitor of serine β-lactamases (Class A and C) and some Class D (OXA-48)
 -   The combination restores activity against carbapenase-producing organisms
--   Avoids use of ceftazime-avibactam + aztreonam
+-   Avoids use of ceftazime-avibactam + aztreonam.
+-   No major benefit for MBL-producing *P. aeruginosa*
 
 ## Pharmacokinetics of aztreonam {.smaller}
 
