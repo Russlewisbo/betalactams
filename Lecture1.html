@@ -53,7 +53,7 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
-  <link rel="stylesheet" href="Lecture1_files/libs/revealjs/dist/theme/quarto-1d64190c95893008d45490a1304847ee.css">
+  <link rel="stylesheet" href="Lecture1_files/libs/revealjs/dist/theme/quarto-e62a6d4823b92d45abdd8fa39f244c5a.css">
   <link href="Lecture1_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="Lecture1_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="Lecture1_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -579,12 +579,12 @@
 </section>
 <section id="beta-lactamase-inhibitors" class="slide level2 smaller">
 <h2>Beta-lactamase inhibitors</h2>
-<div class="smaller">
+<div class="table-grid">
 <table class="caption-top" style="width:99%;">
 <colgroup>
-<col style="width: 7%">
+<col style="width: 6%">
 <col style="width: 29%">
-<col style="width: 47%">
+<col style="width: 48%">
 <col style="width: 15%">
 </colgroup>
 <thead>
@@ -621,7 +621,7 @@
 <td><ul>
 <li><p>Penicillinases / narrow-spectrum beta lactamases</p></li>
 <li><p>ESBL</p></li>
-<li><p>Intrinsically active against Acinetobacter baumannii (directly inhibits PBP1a/b &amp; PBP3). <br> Also against <em>N.gonorrhoea</em> + <em>B.fragilis</em> but not used clinically.</p></li>
+<li><p>Intrinsically active against <em>Acinetobacter baumannii</em> <br>(directly inhibits PBP1a/b &amp; PBP3). <br> Also against <em>N. gonorrhoea</em> + <em>B. fragilis</em> but not used clinically.</p></li>
 </ul></td>
 <td><ul>
 <li><p>Penicillinases / narrow-spectrum beta lactamases</p></li>
@@ -638,12 +638,13 @@
 </tbody>
 </table>
 </div>
-<p><br></p>
+
+<aside><div>
 <ul>
 <li><p>These are structurally similar to penicillin, and target class A including ESBL (but not KPC), but have no activity against class B (MBL), C (AmpC) or D (OXA) beta lactamases.</p></li>
 <li><p>Act as ‘suicide inhibitors’ —&gt; covalently bind serine residue in binding site (many molecules of BLI per beta-lactamase required to produce inhibition)</p></li>
 </ul>
-</section>
+</div></aside></section>
 <section id="amoxicillinclavulanate-dosing" class="slide level2" data-background-image="images/amox.png" data-background-opacity="0.1">
 <h2>Amoxicillin/clavulanate dosing</h2>
 <p><br></p>
@@ -652,8 +653,8 @@
 <ul>
 <li><strong>Standard dose</strong>: (oral, e.g., UTI): (0.5 g amoxicillin + 0.125 g clavulanic acid) x TID</li>
 <li><strong>UTI dose:</strong> (0.5 g amoxicillin + 0.125 g clavulanic acid) TID</li>
-<li><strong>High dose:</strong> (0.875 g amoxicillin + 0.125 g clavulanic acid) TID</li>
-<li><strong>High dose IV:</strong> (2 g amoxicillin + 0.2 g clavulanic acid) q8h</li>
+<li><strong>High dose (Enterbacterales, BSI):</strong> (0.875 g amoxicillin + 0.125 g clavulanic acid) TID-QID</li>
+<li><strong>High dose IV (Enterbacterales, BSI):</strong> (2 g amoxicillin + 0.2 g clavulanic acid) q8h</li>
 </ul></li>
 </ul>
 
@@ -676,8 +677,11 @@
 <h2>Adverse effects</h2>
 <p><br></p>
 <ul>
-<li><p>Persons with infectious mononucleosis, i.e., Epstein-Barr virus (EBV), are likely to develop rash. It is not a permanent allergy</p></li>
-<li><p>In patients with true Amoxicillin allergy, increased risk of cross allergenicity with oral cephalosporins that have an identical R1 side chain: i.e., cefadroxil and cefprozil</p></li>
+<li><p>Persons with infectious mononucleosis, i.e., Epstein-Barr virus (EBV), are likely to develop rash.</p>
+<ul>
+<li>t is not a permanent allergy</li>
+</ul></li>
+<li><p>In patients with true amoxicillin allergy, there is increased risk of cross allergenicity with oral cephalosporins that have an identical R1 side chain: i.e., cefadroxil and cefprozil</p></li>
 <li><p>Hepatotoxicity linked to clavulanic acid. Amoxicillin-clavulanate is most common cause,13-23%, of drug-induced cholestatic liver injury</p>
 <ul>
 <li><p>Onset delayed several days after end of antibiotic therapy</p></li>
@@ -697,12 +701,12 @@
 <ul>
 <li><strong>Ampicillin is a drug of choice for susceptible enterococci</strong>
 <ul>
-<li>Enterococcus faecalis is almost always susceptible; Enterococcus faecium is usually resistant</li>
+<li><em>Enterococcus faecalis</em> is almost always susceptible; <em>Enterococcus faecium</em> is usually resistant</li>
 </ul></li>
 <li>These drugs are often listed as alternative regimens for urinary tract infections (UTIs) in pregnant women because they are pregnancy category B and eliminated renally</li>
 <li><strong>Amoxicillin/clavulanate is used for upper and lower respiratory tract infections when beta-lactamase–producing organisms are found or suspected</strong>
 <ul>
-<li>It can also be useful for UTIs when resistance to other drugs is seen, but it should not be given for a short 3-day course, as with fluoroquinolones or TMP/SMX</li>
+<li>It can also be useful for UTIs when resistance to other drugs is seen, but it <u>should not</u> be given for a short 3-day course, as with fluoroquinolones or TMP/SMX given higher failure rate</li>
 </ul></li>
 </ul>
 </section>
@@ -717,23 +721,17 @@
 <section id="spectrum-of-piperacillin-tazobactam" class="slide level2">
 <h2>Spectrum of piperacillin-tazobactam</h2>
 <p><br></p>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><a href="images/pcnspextrum.png" class="lightbox" data-gallery="quarto-lightbox-gallery-16"><img data-src="images/pcnspextrum.png" class="quarto-figure quarto-figure-center"></a></p>
-</figure>
-</div>
-
-<aside><div>
-<p>Source: Sanford Guide Web</p>
-<p>++ Preferred + activity; ± limited utility; 0 not recommended</p>
-</div></aside></section>
+<ul>
+<li></li>
+</ul>
+</section>
 <section id="ambler-classification-of-beta-lactamases-1" class="slide level2 smaller">
 <h2>Ambler classification of beta-lactamases</h2>
 <p><br></p>
 <p>Should piperacillin-tazobactam be used for severe ESBL infections?</p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><a href="images/Ambler.png" class="lightbox" data-gallery="quarto-lightbox-gallery-17"><img data-src="images/Ambler.png" class="quarto-figure quarto-figure-center" width="800"></a></p>
+<p><a href="images/Ambler.png" class="lightbox" data-gallery="quarto-lightbox-gallery-16"><img data-src="images/Ambler.png" class="quarto-figure quarto-figure-center" width="800"></a></p>
 </figure>
 </div>
 
@@ -745,9 +743,9 @@
 <p><br></p>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><a href="images/MERINO1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-18"><img data-src="images/MERINO1.png"></a></p>
+<p><a href="images/MERINO1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-17"><img data-src="images/MERINO1.png"></a></p>
 </div><div class="column" style="width:50%;">
-<p><a href="images/MERINO2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-19"><img data-src="images/MERINO2.png"></a></p>
+<p><a href="images/MERINO2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-18"><img data-src="images/MERINO2.png"></a></p>
 </div></div>
 
 <aside><div>
@@ -806,7 +804,7 @@
 <p><br></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><a href="images/bling1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-20"><img data-src="images/bling1.png" class="quarto-figure quarto-figure-center"></a></p>
+<p><a href="images/bling1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-19"><img data-src="images/bling1.png" class="quarto-figure quarto-figure-center"></a></p>
 </figure>
 </div>
 
@@ -817,7 +815,7 @@
 <h2>BLING III- Enrolment criteria</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><a href="images/bling2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-21"><img data-src="images/bling2.png" class="quarto-figure quarto-figure-center" width="700"></a></p>
+<p><a href="images/bling2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-20"><img data-src="images/bling2.png" class="quarto-figure quarto-figure-center" width="700"></a></p>
 </figure>
 </div>
 
@@ -828,7 +826,7 @@
 <h2>BLING III results</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><a href="images/bling3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-22"><img data-src="images/bling3.png" class="quarto-figure quarto-figure-center"></a></p>
+<p><a href="images/bling3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-21"><img data-src="images/bling3.png" class="quarto-figure quarto-figure-center"></a></p>
 </figure>
 </div>
 
@@ -841,13 +839,13 @@
 <p><br> <br></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><a href="images/bling4.png" class="lightbox" data-gallery="quarto-lightbox-gallery-23"><img data-src="images/bling4.png" class="quarto-figure quarto-figure-center"></a></p>
+<p><a href="images/bling4.png" class="lightbox" data-gallery="quarto-lightbox-gallery-22"><img data-src="images/bling4.png" class="quarto-figure quarto-figure-center"></a></p>
 </figure>
 </div>
 </section>
 <section id="meta-analysis-the-bigger-picture" class="slide level2 smaller">
 <h2>Meta-analysis: The bigger picture</h2>
-<p><a href="images/BLING_meta.png" class="lightbox" data-gallery="quarto-lightbox-gallery-24"><img data-src="images/BLING_meta.png"></a></p>
+<p><a href="images/BLING_meta.png" class="lightbox" data-gallery="quarto-lightbox-gallery-23"><img data-src="images/BLING_meta.png"></a></p>
 
 <aside><div>
 <p><span class="citation" data-cites="abdul-aziz2024">(<a href="#/references" role="doc-biblioref" onclick="">Abdul-Aziz et al., 2024</a>)</span></p>
@@ -888,14 +886,14 @@
 <p><br></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><a href="images/aztreonam.png" class="lightbox" data-gallery="quarto-lightbox-gallery-25"><img data-src="images/aztreonam.png" class="quarto-figure quarto-figure-center" width="400"></a></p>
+<p><a href="images/aztreonam.png" class="lightbox" data-gallery="quarto-lightbox-gallery-24"><img data-src="images/aztreonam.png" class="quarto-figure quarto-figure-center" width="400"></a></p>
 </figure>
 </div>
 </section>
 <section id="aztreonam-spectrum-of-activity" class="slide level2">
 <h2>Aztreonam: Spectrum of activity</h2>
 <p><br> <br></p>
-<p><a href="images/aztreonam_spectrum.png" class="lightbox" data-gallery="quarto-lightbox-gallery-26"><img data-src="images/aztreonam_spectrum.png"></a></p>
+<p><a href="images/aztreonam_spectrum.png" class="lightbox" data-gallery="quarto-lightbox-gallery-25"><img data-src="images/aztreonam_spectrum.png"></a></p>
 <ul>
 <li>Only gram-negative with some <em>P. aeruginosa</em> coverage</li>
 <li>No useful activity against gram-positive bacteria or anaerobes</li>
@@ -909,7 +907,7 @@
 <div class="column" style="width:40%;">
 <div class="quarto-figure quarto-figure-right">
 <figure>
-<p><a href="images/sidechains.png" class="lightbox" data-gallery="quarto-lightbox-gallery-27"><img data-src="images/sidechains.png" class="quarto-figure quarto-figure-right" width="250"></a></p>
+<p><a href="images/sidechains.png" class="lightbox" data-gallery="quarto-lightbox-gallery-26"><img data-src="images/sidechains.png" class="quarto-figure quarto-figure-right" width="250"></a></p>
 </figure>
 </div>
 </div><div class="column" style="width:60%;">
@@ -927,14 +925,15 @@ Aztreonam-avibactam!
 </center>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><a href="images/comingsoon.png" class="lightbox" data-gallery="quarto-lightbox-gallery-28"><img data-src="images/comingsoon.png" class="quarto-figure quarto-figure-center" width="600"></a></p>
+<p><a href="images/comingsoon.png" class="lightbox" data-gallery="quarto-lightbox-gallery-27"><img data-src="images/comingsoon.png" class="quarto-figure quarto-figure-center" width="500"></a></p>
 </figure>
 </div>
 <ul>
 <li>Why combine?- Aztreonam is not hydrolyzed by metallo-lactamases (class B), but is degraded by some Ambler class A and C β-lactamases</li>
 <li>Avibactam is an inhibitor of serine β-lactamases (Class A and C) and some Class D (OXA-48)</li>
 <li>The combination restores activity against carbapenase-producing organisms</li>
-<li>Avoids use of ceftazime-avibactam + aztreonam</li>
+<li>Avoids use of ceftazime-avibactam + aztreonam.</li>
+<li>No major benefit for MBL-producing <em>P. aeruginosa</em></li>
 </ul>
 </section>
 <section id="pharmacokinetics-of-aztreonam" class="slide level2 smaller">
