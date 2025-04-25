@@ -171,9 +171,9 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
     -   Morbilliform rash after 72 hours is not IgE-mediated and often not treatment-limiting
 
--   Serious late allergic reactions: Coombs-positive hemolytic anemia, neutropenia, thrombocytopenia, serum sickness, interstitial nephritis, hepatitis, eosinophilia, drug fever
+-   **Serious late allergic reactions:** Coombs-positive hemolytic anemia, neutropenia, thrombocytopenia, serum sickness, interstitial nephritis, hepatitis, eosinophilia, drug fever
 
-## Clinical role
+## Clinical role of natural penicillins
 
 <br>
 
@@ -196,7 +196,7 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 |                   |                                                                                                                                                                                |
 |                   | -   Limited data on CNS penetration                                                                                                                                            |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Metabolism**    | Not metabolised but some drugs can induce CYP P450 (dicloxacillin, flucloxacillin)                                                                                             |
+| **Metabolism**    | Not metabolised but some drugs can induce CYP P450 (dicloxacillin, flucloxacillin via pregnane X receptor, PXR                                                                                             |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Elimination**   | Biliary with some renal (no dosing adjustment for renal impairment)                                                                                                            |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
