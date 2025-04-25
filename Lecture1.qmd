@@ -21,7 +21,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 3: β-lactams and β-lactamases {background-image="images/flemming1.png" background-opacity="0.2"}
+## Lecture 3: β-lactams and β-lactamase inhibitors {background-image="images/flemming1.png" background-opacity="0.2"}
 
 <br> <br> <br> <br> <br>
 
@@ -95,28 +95,22 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br> <br>
 
-![](images/pcnspextrum.png){fig-align="center"}
-
+-   **Gram positive only**
 -   **Good:** *Treponema pallidum*, most streptococci, including *Streptococcus pneumoniae*
 
 -   **Moderate:** Enterococci
 
 -   **Poor:** Almost everything else (penicillinases, β-lactamases)
 
-::: aside
-Source: Sanford Guide Web
 
-++ Preferred + activity; ± limited utility; 0 not recommended
-:::
-
-## Pharmacodynamics of **β-lactam** antibiotics {.smaller background-image="images/killrate.png" background-opacity="0.1"}
+## Pharmacodynamics of **β-lactam** antibiotics {.smaller background-image="images/killrate.png" background-opacity="0.2"}
 
 <br> <br>
 
 -   **β-lactam antibiotics exhibit relatively concentration-independent killing**
     -   The rate of killing reaches its maximum very quickly as the drug concentration increases from the MIC to 4–6 times the MIC and falls precipitously when the drug concentration decline below the MIC
 
-    -   Related to mechanism of action: acylation of their targets, the β-lactam-binding proteins
+    -   Related to mechanism of action: acylation of their targets, the peneicillin-binding proteins
 
     -   Once maximal acylation is achieved, the killing rates cannot increase any further. This explains why the killing rates for β-lactam drugs are maximal at a low multiple of the MIC
 -   [**% Time \> MIC is the pharmacodynamically linked variable**]{bg-color="#ffe536"}
@@ -158,13 +152,10 @@ Source: Sanford Guide Web
 |                   | (High dose) Penicillin G: \> 20 MU IV daily                                                             |
 +-------------------+---------------------------------------------------------------------------------------------------------+
 
-::: aside
-Source: Sanford Guide
-:::
 
 ## CNS Toxicities {.smaller}
 
-![](images/seizues.png){fig-align="center" width="500"}
+![](images/seizues.png){fig-align="center" width="600"}
 
 The β-lactam ring structure is an important determinant of the epileptogenic properties. Evidence suggests that substitutions occurring at the 7-aminocephalosporanic or 6- aminopenicillanic acid (6-APA) positions may lead to alterations in epileptogenic activity. The thiazolidine ring and side chain length also plays a role in determining the pro-convulsive effects of β-lactams
 
@@ -178,7 +169,7 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 -   Most serious reaction is immediate IgE-mediated anaphylaxis; incidence only 0.05% but 5-10% fatal. Other IgE-mediated reactions: urticaria, angioedema, laryngeal edema, bronchospasm
 
-    -   Morbilliform rash after 72 hours is not IgE-mediated and not serious
+    -   Morbilliform rash after 72 hours is not IgE-mediated and often not treatment-limiting
 
 -   Serious late allergic reactions: Coombs-positive hemolytic anemia, neutropenia, thrombocytopenia, serum sickness, interstitial nephritis, hepatitis, eosinophilia, drug fever
 
