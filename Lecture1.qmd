@@ -262,25 +262,54 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 <br>
 
-## Reconsideration of Role: SNAP Trial
+## Reconsideration of Role of anti-staphylcococal penicillins: The SNAP Trial {.smaller}
+
+::::: columns
+::: {.column width="70%"}
+-   Does the better safety profile of cefazolin outweigh the theoretically superior in vitro activity of anti-staphylococcal penicillins (nafcillin, oxacillin, flucloxacillin) in the setting of high bacterial burden — the so-called “inoculum effect”
+-   Can we trust penicillin susceptibility testing when the lab reports an MSSA isolate is penicillin sensitive.
+-   **Results from cefazolin study:**
+    -   Cefazolin was noninferior to flucloxacillin for 90-day mortality in MSSA bacteremia — 15.0% and 17.0%, respectively.
+    -   Acute kidney injury rates were lower in the cefazolin group.
+    -   Early mortality was lower with cefazolin
+-   **Results from penicillin study:**
+    -   Penicillin was noninferior to flucloxacillin in 90-day mortality (13.8% vs 21.5%, respectively) and might have been superior with a larger sample size.
+    -   Significantly lower rates of acute kidney injury with penicillin.
+    -   If your lab is conducting penicillin susceptibility testing for *S. aureus* correctly, you can trust the results — penicillin is fully active.
+:::
+
+::: {.column width="30%"}
+<br> <br> ![](images/Screenshot%202025-04-25%20at%2011.20.51.png){fig-align="center"}
+:::
+:::::
+
+::: aside
+ESCMID 2025, Vienna
+:::
 
 ## Spectrum: Aminopenicillins {.smaller}
 
 <br>
 
-![](images/pcnspextrum.png){fig-align="center"}
+-   **Gram-positive bacteria:**
+    -   Many *Streptococcus* species, including *Streptococcus pneumoniae* and *Streptococcus pyogenes* (Group A Strep).
+    -   *Enterococcus* species, such as *Enterococcus faecalis*.
+    -   Non-beta-lactamase-producing *Staphylococcus* species (though many staphylococci produce beta-lactamase, which makes them resistant to aminopenicillins).
 
-::: aside
-Source: Sanford Guide Web
-
-++ Preferred + activity; ± limited utility; 0 not recommended
-:::
+2.  **Gram-negative bacteria:**
+    -   *Haemophilus influenzae* (non-beta-lactamase-producing strains).
+    -   E*scherichia coli* (non-beta-lactamase-producing strains).
+    -   *Proteus mirabilis*.
+    -   *Salmonella* and *Shigella* species.
+    -   *Neisseria meningitidis* and some strains of *Neisseria gonorrhoeae.*
+3.  **Anaerobes:**
+    -   Some coverage against anaerobic bacteria, but less effective than drugs specifically targeting anaerobes.
 
 ## Ambler classification of beta-lactamases {.smaller}
 
 <br>
 
-Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
+Clavulanic acid and sulbactam are suicide inhibitors of some Ambler class A enzymes
 
 ![](images/Ambler.png){fig-align="center" width="800"}
 
@@ -292,9 +321,9 @@ Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
 
 <br>
 
--   **Intrinsic (e.g., 1st-Gen BLIs don’t work against AmpC or Carbapenemases)**
+-   **Intrinsic (e.g., 1st-generation BLIs don’t work against AmpC or Carbapenemases)**
 
--   **BLI-R beta lactamases (point mutation —\> less binding of 1st-gen BLIs)**
+-   **BLI-R beta lactamases (point mutation —\> decreased binding of 1st-gen BLIs)**
 
     -   Narrow-spectrum: TEM-30, SHV-10
 
@@ -302,7 +331,7 @@ Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
 
 -   **Hyperproduction of beta-lactamase (more common)**
 
-    -   E.g. ESBL E.coli, or Klebsiella SHV-1
+    -   E.g. ESBL *E.coli*, or *Klebsiella spp.* SHV-1
 
 ## Amoxicillin-clavulanate resistance
 
@@ -312,62 +341,58 @@ Clavulanic acid and sulbactam are suicide inhibitors of Ambler class A enzymes
 
 ## Pharmacokinetics: Aminopenicillins {.smaller}
 
-+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-| **Absorption**          | Ampicillin (IV) <br> Ampicillin-sulbactam (IV) <br> Amoxicillin (oral, 80% bioavail.) <br> Amoxicillin-clavulanate (oral 80% bioavail., IV) |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-| **Distribution**        | -   0.25-0.36 L/kg                                                                                                                          |
-|                         |                                                                                                                                             |
-|                         | -   18-22% protein bound                                                                                                                    |
-|                         |                                                                                                                                             |
-|                         | -   500% bile:serum                                                                                                                         |
-|                         |                                                                                                                                             |
-|                         | -   5-10% CSF:blood (therapeutic for some pathogens)                                                                                        |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-| **Metabolism**          | -   No metabolism                                                                                                                           |
-|                         |                                                                                                                                             |
-|                         | -   t½ 1.2-1.5 hr                                                                                                                           |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-| **Elimination**         | ampicillin, amoxicillin, sulbactam- renal, clavulanate-hepatic, bile and renal                                                              |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-| **PK:PD target**        | ≥ 40-50% *f*Time~\>MIC~                                                                                                                     |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-| **Typical adult doses** | -   Ampicillin 1-2 gram IV q4-6h<br>                                                                                                        |
-|                         |                                                                                                                                             |
-|                         | -   Ampicillin-sulbactam : 3 gram IV q6h; up to 9 gram IV over 4hrs q8h for *Acinetobacter* spp. VAP<br>                                    |
-|                         |                                                                                                                                             |
-|                         | -   Amoxicillin 500-1000 mg TID; ER tab 775 mg once daily; <br>                                                                             |
-|                         |                                                                                                                                             |
-|                         | -   Amoxicillin-clavulanate 500-1000 mg ( 125-200 clav) twice daily <br>                                                                    |
-|                         |                                                                                                                                             |
-|                         | -   Amoxicillin-clavulanate 1000/200 IV q8h IV                                                                                              |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-
-::: aside
-Source: Sanford Guide
-:::
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Absorption**          | Ampicillin (IV) <br> Ampicillin-sulbactam (IV) <br> Amoxicillin (oral, 80% bioavail, dose-depedent) <br> Amoxicillin-clavulanate (oral 80% bioavail., IV) |
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Distribution**        | -   0.25-0.36 L/kg                                                                                                                                        |
+|                         |                                                                                                                                                           |
+|                         | -   18-22% protein bound                                                                                                                                  |
+|                         |                                                                                                                                                           |
+|                         | -   500% bile:serum                                                                                                                                       |
+|                         |                                                                                                                                                           |
+|                         | -   5-10% CSF:blood (therapeutic for some pathogens)                                                                                                      |
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Metabolism**          | -   No metabolism                                                                                                                                         |
+|                         |                                                                                                                                                           |
+|                         | -   t½ 1.2-1.5 hr                                                                                                                                         |
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Elimination**         | ampicillin, amoxicillin, sulbactam- renal, clavulanate-hepatic, bile and renal                                                                            |
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **PK:PD target**        | ≥ 40-50% *f*Time~\>MIC~                                                                                                                                   |
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Typical adult doses** | -   Ampicillin 1-2 gram IV q4-6h<br>                                                                                                                      |
+|                         |                                                                                                                                                           |
+|                         | -   Ampicillin-sulbactam : 3 gram IV q6h; up to 9 gram IV over 4hrs q8h for *Acinetobacter* spp. VAP<br>                                                  |
+|                         |                                                                                                                                                           |
+|                         | -   Amoxicillin 500-1000 mg TID-QID; ER tab 775 mg once daily; <br>                                                                                       |
+|                         |                                                                                                                                                           |
+|                         | -   Amoxicillin-clavulanate 500-1000 mg ( 125-200 clav) twice daily <br>                                                                                  |
+|                         |                                                                                                                                                           |
+|                         | -   Amoxicillin-clavulanate 1000/200 IV q8h IV                                                                                                            |
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Beta-lactamase inhibitors {.smaller}
 
 ::: smaller
-+------------------------+--------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-|                        | Clavulanic acid                                                                            | Sulbactam                                                                                                                                                   | Tazobactam                                           |
-+========================+============================================================================================+=============================================================================================================================================================+======================================================+
-| **Chemical structure** | Clavam, similar to penicillin nucleus                                                      | Penicillanic acid sulfone                                                                                                                                   | Penicillanic acid sulfone                            |
-+------------------------+--------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| **Origin**             | Isolated from *Streptomyces clavuligerus* in the 1970s                                     | Developed 1978 (synthetic)                                                                                                                                  | Developed 1980 (synthetic)                           |
-+------------------------+--------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| **Drugs**              | Amoxicillin: Co-amoxiclav (Augmentin) 1988 Ticarcillin: Ticarcillin-clavulanate (Timentin) | Ampicillin/Sulbactam (Unasyn)                                                                                                                               | Piperacillin/Tazobactam Ceftolozane/Tazobactam       |
-+------------------------+--------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| **Active against**     | Penicillinases / narrow-spectrum beta lactamases                                           | -   Penicillinases / narrow-spectrum beta lactamases                                                                                                        | -   Penicillinases / narrow-spectrum beta lactamases |
-|                        |                                                                                            |                                                                                                                                                             |                                                      |
-|                        | ESBL , OXA-53                                                                              | -   ESBL                                                                                                                                                    | -   ESBL • OXA-2,32                                  |
-|                        |                                                                                            |                                                                                                                                                             |                                                      |
-|                        |                                                                                            | -   Intrinsically active against Acinetobacter baumannii (directly inhibits PBP1 & PBP3). - Also against N.gonorrhoea + B.fragilis but not used clinically. |                                                      |
-+------------------------+--------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| **Not active against** | AmpC Cephalosporinases Carbapenemases (KPC, OXA-48, MBLs)                                  | AmpC Cephalosporinases                                                                                                                                      | AmpC Cephalosporinases Carbapenemases                |
-|                        |                                                                                            |                                                                                                                                                             |                                                      |
-|                        |                                                                                            | Carbapenemases                                                                                                                                              |                                                      |
-+------------------------+--------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
++------------------------+----------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+|                        | Clavulanic acid                                                                                          | Sulbactam                                                                                                                                                             | Tazobactam                                           |
++========================+==========================================================================================================+=======================================================================================================================================================================+======================================================+
+| **Chemical structure** | Clavam, similar to penicillin nucleus                                                                    | Penicillanic acid sulfone                                                                                                                                             | Penicillanic acid sulfone                            |
++------------------------+----------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+| **Origin**             | Isolated from *Streptomyces clavuligerus* in the 1970s                                                   | Developed 1978 (synthetic)                                                                                                                                            | Developed 1980 (synthetic)                           |
++------------------------+----------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+| **Drugs**              | Amoxicillin: Co-amoxiclav (Augmentin) 1988 Ticarcillin: Ticarcillin-clavulanate (Timentin)               | Ampicillin/Sulbactam (Unasyn)                                                                                                                                         | Piperacillin/Tazobactam Ceftolozane/Tazobactam       |
++------------------------+----------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+| **Active against**     | Penicillinases / narrow-spectrum beta lactamases                                                         | -   Penicillinases / narrow-spectrum beta lactamases                                                                                                                  | -   Penicillinases / narrow-spectrum beta lactamases |
+|                        |                                                                                                          |                                                                                                                                                                       |                                                      |
+|                        | ESBL , OXA-53 but infrequently used clinically because of higher reported failure rates vs. IV therapies | -   ESBL                                                                                                                                                              | -   ESBL • OXA-2,32                                  |
+|                        |                                                                                                          |                                                                                                                                                                       |                                                      |
+|                        |                                                                                                          | -   Intrinsically active against Acinetobacter baumannii (directly inhibits PBP1a/b & PBP3). <br> Also against *N.gonorrhoea* + *B.fragilis* but not used clinically. |                                                      |
++------------------------+----------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+| **Not active against** | AmpC Cephalosporinases Carbapenemases (KPC, OXA-48, MBLs)                                                | AmpC Cephalosporinases                                                                                                                                                | AmpC Cephalosporinases Carbapenemases                |
+|                        |                                                                                                          |                                                                                                                                                                       |                                                      |
+|                        |                                                                                                          | Carbapenemases                                                                                                                                                        |                                                      |
++------------------------+----------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
 :::
 
 <br>
