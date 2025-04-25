@@ -583,10 +583,9 @@ Effect size= 2% reduction. NNT of 50 patients to prevent 1 death
 
 <br>
 
--   Platelet dysfunction reported more frequently in patients with renal failure
-    -   Drug-induced immune thrombocytopenia
--   Allergic reactions can occur with any of the beta-lactam antibiotics.
--   Treatment stopped due to adverse effects: (3.2%):
+-   **Drug-induced immune thrombocytopenia**
+    -   Platelet dysfunction reported more frequently in patients with renal failure
+-   **Treatment stopped due to adverse effects: (3.2%)**
     -   Local phlebitis (1%), fever (2%), rash (4%)
     -   Serum sickness, positive Coombs, neutropenia, eosinophilia, thrombocytopenia, increased PT/PTT
     -   Nausea/vomiting (7%), diarrhea (11%)
@@ -611,28 +610,28 @@ Effect size= 2% reduction. NNT of 50 patients to prevent 1 death
 
 <br>
 
-![](images/aztreonam.png){fig-align="center" width="400"}
+![](images/aztreonam.png){fig-align="center" width="300"}
 
 ## Aztreonam: Spectrum of activity
 
 <br> <br>
 
-![](images/aztreonam_spectrum.png)
-
--   Only gram-negative with some *P. aeruginosa* coverage
+-   Only gram-negative with some *P. aeruginosa* coverage (high resistance rates in some institutions)
 -   No useful activity against gram-positive bacteria or anaerobes
--   However, degraded by Class A and C beta-lactamases
+-   Degraded by Class A and C beta-lactamases
 
-## Safe drug for penicillin allergic patients?
-
-<br>
+## Is aztreonma truly safe for penicillin allergic patients? {.smaller}
 
 ::::: columns
 ::: {.column width="40%"}
-![](images/sidechains.png){fig-align="right" width="250"}
+![](images/sidechains.png){fig-align="right" width="200"}
 :::
 
 ::: {.column width="60%"}
+
+<br>
+<br>
+<br>
 Exception: Aztreonam has R1 side-chain identical to that of ceftazidime and cefiderocol, so in those with allergy to that side-chain, there may be cross-sensitivity
 :::
 :::::
@@ -653,7 +652,7 @@ Exception: Aztreonam has R1 side-chain identical to that of ceftazidime and cefi
 -   Avibactam is an inhibitor of serine β-lactamases (Class A and C) and some Class D (OXA-48)
 -   The combination restores activity against carbapenase-producing organisms
 -   Avoids use of ceftazime-avibactam + aztreonam.
--   No major benefit for MBL-producing *P. aeruginosa*
+-   No benefit for MBL-producing *P. aeruginosa*
 
 ## Pharmacokinetics of aztreonam {.smaller}
 
@@ -704,7 +703,7 @@ Exception: Aztreonam has R1 side-chain identical to that of ceftazidime and cefi
 
 -   For select pathogens, still some of the rapidly killing agents
 -   Short t½ = not the most practical agents
--   Time \> MIC pharmacodynamics, + short t½= activity maximized with prolonged infusions
+-   Time \> MIC pharmacodynamics, + short t½= activity will be maximized with prolonged infusions
 -   Resistance, particularly ESBL, Amp-C have blunted broad-spectrum
 -   New β-lactamase inhibitors can revive niche agents
 
