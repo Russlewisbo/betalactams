@@ -96,12 +96,12 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 <br> <br>
 
 -   **Gram positive only**
+
 -   **Good:** *Treponema pallidum*, most streptococci, including *Streptococcus pneumoniae*
 
 -   **Moderate:** Enterococci
 
 -   **Poor:** Almost everything else (penicillinases, β-lactamases)
-
 
 ## Pharmacodynamics of **β-lactam** antibiotics {.smaller background-image="images/killrate.png" background-opacity="0.2"}
 
@@ -152,7 +152,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 |                   | (High dose) Penicillin G: \> 20 MU IV daily                                                             |
 +-------------------+---------------------------------------------------------------------------------------------------------+
 
-
 ## CNS Toxicities {.smaller}
 
 ![](images/seizues.png){fig-align="center" width="600"}
@@ -196,7 +195,7 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 |                   |                                                                                                                                                                                |
 |                   | -   Limited data on CNS penetration                                                                                                                                            |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Metabolism**    | Not metabolised but some drugs can induce CYP P450 (dicloxacillin, flucloxacillin via pregnane X receptor, PXR                                                                                             |
+| **Metabolism**    | Not metabolised but some drugs can induce CYP P450 (dicloxacillin, flucloxacillin)                                                                                             |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Elimination**   | Biliary with some renal (no dosing adjustment for renal impairment)                                                                                                            |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -229,7 +228,7 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 -   Flucloxacillin (also dicloxacillin?) activates the pregnane X receptor (PXR), which can induce the expression of CYP450 and UGT enzymes, and P-gP transporters
 
-    ![](images/clipboard-1261899633.png)
+    ![](images/clipboard-1261899633.png){width="700"}
 
 ::: aside
 [@wei2016]
@@ -262,6 +261,8 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 -   β-lactams kill staphylococci more quickly than vancomycin, so patients with MSSA infections who lack serious beta-lactam allergies should be switched to beta-lactams, such as antistaphylococcal penicillins or first-generation cephalosporins
 
 <br>
+
+## Reconsideration of Role: SNAP Trial
 
 ## Spectrum: Aminopenicillins {.smaller}
 
@@ -549,9 +550,9 @@ Effect size= 2% reduction. NNT of 50 patients to prevent 1 death
 [@abdul-aziz2024]
 :::
 
-## Adverse effects 
+## Adverse effects
 
-<br> 
+<br>
 
 -   Platelet dysfunction can occur in patients with renal failure, due to impaired platelet aggregation
 -   Drug-induced immune thrombocytopenia
@@ -663,7 +664,7 @@ Exception: Aztreonam has R1 side-chain identical to that of ceftazidime and cefi
 
 -   Confusion, dizziness
 
-## Summary-Pencillins{background-image="images/flemming1.png" background-opacity="0.1"}
+## Summary-Pencillins {background-image="images/flemming1.png" background-opacity="0.1"}
 
 <br>
 
