@@ -374,25 +374,25 @@ Clavulanic acid and sulbactam are suicide inhibitors of some Ambler class A enzy
 ## Beta-lactamase inhibitors {.smaller}
 
 ::: table-grid
-+------------------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-|                        | Clavulanic acid                                                                                          | Sulbactam                                                                                                                                                                      | Tazobactam                                           |
-+========================+==========================================================================================================+================================================================================================================================================================================+======================================================+
-| **Chemical structure** | Clavam, similar to penicillin nucleus                                                                    | Penicillanic acid sulfone                                                                                                                                                      | Penicillanic acid sulfone                            |
-+------------------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| **Origin**             | Isolated from *Streptomyces clavuligerus* in the 1970s                                                   | Developed 1978 (synthetic)                                                                                                                                                     | Developed 1980 (synthetic)                           |
-+------------------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| **Drugs**              | Amoxicillin: Co-amoxiclav (Augmentin) 1988 Ticarcillin: Ticarcillin-clavulanate (Timentin)               | Ampicillin/Sulbactam (Unasyn)                                                                                                                                                  | Piperacillin/Tazobactam Ceftolozane/Tazobactam       |
-+------------------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| **Active against**     | Penicillinases / narrow-spectrum beta lactamases                                                         | -   Penicillinases / narrow-spectrum beta lactamases                                                                                                                           | -   Penicillinases / narrow-spectrum beta lactamases |
-|                        |                                                                                                          |                                                                                                                                                                                |                                                      |
-|                        | ESBL , OXA-53 but infrequently used clinically because of higher reported failure rates vs. IV therapies | -   ESBL                                                                                                                                                                       | -   ESBL • OXA-2,32                                  |
-|                        |                                                                                                          |                                                                                                                                                                                |                                                      |
-|                        |                                                                                                          | -   Intrinsically active against *Acinetobacter baumannii* <br>(directly inhibits PBP1a/b & PBP3). <br> Also against *N. gonorrhoea* + *B. fragilis* but not used clinically.  |                                                      |
-+------------------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| **Not active against** | AmpC Cephalosporinases Carbapenemases (KPC, OXA-48, MBLs)                                                | AmpC Cephalosporinases                                                                                                                                                         | AmpC Cephalosporinases Carbapenemases                |
-|                        |                                                                                                          |                                                                                                                                                                                |                                                      |
-|                        |                                                                                                          | Carbapenemases                                                                                                                                                                 |                                                      |
-+------------------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
++------------------------+----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+|                        | Clavulanic acid                                                                                          | Sulbactam                                                                                                                                                                     | Tazobactam                                           |
++========================+==========================================================================================================+===============================================================================================================================================================================+======================================================+
+| **Chemical structure** | Clavam, similar to penicillin nucleus                                                                    | Penicillanic acid sulfone                                                                                                                                                     | Penicillanic acid sulfone                            |
++------------------------+----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+| **Origin**             | Isolated from *Streptomyces clavuligerus* in the 1970s                                                   | Developed 1978 (synthetic)                                                                                                                                                    | Developed 1980 (synthetic)                           |
++------------------------+----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+| **Drugs**              | Amoxicillin: Co-amoxiclav (Augmentin) 1988 Ticarcillin: Ticarcillin-clavulanate (Timentin)               | Ampicillin/Sulbactam (Unasyn)                                                                                                                                                 | Piperacillin/Tazobactam Ceftolozane/Tazobactam       |
++------------------------+----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+| **Active against**     | Penicillinases / narrow-spectrum beta lactamases                                                         | -   Penicillinases / narrow-spectrum beta lactamases                                                                                                                          | -   Penicillinases / narrow-spectrum beta lactamases |
+|                        |                                                                                                          |                                                                                                                                                                               |                                                      |
+|                        | ESBL , OXA-53 but infrequently used clinically because of higher reported failure rates vs. IV therapies | -   ESBL                                                                                                                                                                      | -   ESBL • OXA-2,32                                  |
+|                        |                                                                                                          |                                                                                                                                                                               |                                                      |
+|                        |                                                                                                          | -   Intrinsically active against *Acinetobacter baumannii* <br>(directly inhibits PBP1a/b & PBP3). <br> Also against *N. gonorrhoea* + *B. fragilis* but not used clinically. |                                                      |
++------------------------+----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+| **Not active against** | AmpC Cephalosporinases Carbapenemases (KPC, OXA-48, MBLs)                                                | AmpC Cephalosporinases                                                                                                                                                        | AmpC Cephalosporinases Carbapenemases                |
+|                        |                                                                                                          |                                                                                                                                                                               |                                                      |
+|                        |                                                                                                          | Carbapenemases                                                                                                                                                                |                                                      |
++------------------------+----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
 :::
 
 ::: aside
@@ -467,7 +467,11 @@ Clavulanic acid and sulbactam are suicide inhibitors of some Ambler class A enzy
 
 <br>
 
--   
+-   **Broad Gram-negative coverage:** Effective against a wide range of Gram-negative bacteria, including *Pseudomonas aeruginosa, Enterobacter species*, and *Escherichia coli*, as well as many *Klebsiella*, *Salmonella*, and *Shigella* species.
+
+-   **Gram-positive bacteria:** Active against many Gram-positive organisms, such as *Streptococcus pneumoniae* and other *Streptococcus* species, and some penicillin-sensitive *Staphylococcus aureus* (MSSA), but not effective against methicillin-resistant *Staphylococcus aureus* (MRSA).
+
+-   **Anaerobic bacteria:** Offers good coverage against anaerobes, including *Bacteroides fragilis* and other *Bacteroides* species, making it useful for intra-abdominal and pelvic infections.
 
 ## Ambler classification of beta-lactamases {.smaller}
 
@@ -503,6 +507,8 @@ Should piperacillin-tazobactam be used for severe ESBL infections?
 
 <br>
 
+::: table-grid
+
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | **Absorption**          | IV only                                                                                                                                  |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
@@ -512,13 +518,13 @@ Should piperacillin-tazobactam be used for severe ESBL infections?
 |                         |                                                                                                                                          |
 |                         | -   \>100% bile:serum                                                                                                                    |
 |                         |                                                                                                                                          |
-|                         | -   CSF:blood pentration- limited data                                                                                                   |
+|                         | -   CSF:blood penetration- limited data                                                                                                  |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | **Metabolism**          | -   No metabolism                                                                                                                        |
 |                         |                                                                                                                                          |
 |                         | -   t½ 1 hr                                                                                                                              |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| **Elimination**         | Renal, may interfere with SeCr excretion                                                                                                 |
+| **Elimination**         | Renal, may interfere with SeCr excretion (false nephrotoxicity signal)                                                                   |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | **PK:PD target**        | ≥ 40-50% *f*Time~\>MIC~                                                                                                                  |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
@@ -528,6 +534,8 @@ Should piperacillin-tazobactam be used for severe ESBL infections?
 |                         |                                                                                                                                          |
 |                         | -   **Prolonged infusion:** 4.5 gram IV over 30 minutes followed by 3.375 gram IV infused over 4 hours                                   |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+
+:::
 
 ## BLING III
 
@@ -561,7 +569,7 @@ Effect size= 2% reduction. NNT of 50 patients to prevent 1 death
 
 <br> <br>
 
-![](images/bling4.png){fig-align="center"}
+![](images/bling4.png){fig-align="center" width="700"}
 
 ## Meta-analysis: The bigger picture {.smaller}
 
@@ -571,15 +579,19 @@ Effect size= 2% reduction. NNT of 50 patients to prevent 1 death
 [@abdul-aziz2024]
 :::
 
-## Adverse effects
+## Adverse effects of piperacillin-tazobactam
 
 <br>
 
--   Platelet dysfunction can occur in patients with renal failure, due to impaired platelet aggregation
--   Drug-induced immune thrombocytopenia
+-   Platelet dysfunction reported more frequently in patients with renal failure
+    -   Drug-induced immune thrombocytopenia
 -   Allergic reactions can occur with any of the beta-lactam antibiotics.
 -   Treatment stopped due to adverse effects: (3.2%):
-    -   Local phlebitis (1%), fever (2%), rash (4%) - Serum sickness, positive Coombs, neutropenia, eosinophilia, thrombocytopenia, increased PT/PTT, - nausea/vomiting (7%), diarrhea (11%), C. difficile colitis, - Increased LFTs, increased BUN/Creatinine, headache (8%), confusion (rare), seizures (rare). - Hypokalemia
+    -   Local phlebitis (1%), fever (2%), rash (4%)
+    -   Serum sickness, positive Coombs, neutropenia, eosinophilia, thrombocytopenia, increased PT/PTT
+    -   Nausea/vomiting (7%), diarrhea (11%)
+    -   *C. difficile* colitis
+    -   Increased LFTs, increased BUN/Creatinine, headache (8%), confusion (rare), seizures (rare), hypokalemia
 
 ## Increased risk of renal failure with vancomycin? {background-image="images/kidney-1.svg" background-opacity="0.2"}
 
