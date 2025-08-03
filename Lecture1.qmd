@@ -103,9 +103,9 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 -   **Poor:** Almost everything else (penicillinases, β-lactamases)
 
-## Pharmacodynamics of **β-lactam** antibiotics {.smaller background-image="images/killrate.png" background-opacity="0.2"}
+## Pharmacodynamics of **β-lactam** antibiotics 
 
-<br> <br>
+<br> 
 
 -   **β-lactam antibiotics exhibit relatively concentration-independent killing**
     -   The rate of killing reaches its maximum very quickly as the drug concentration increases from the MIC to 4–6 times the MIC and falls precipitously when the drug concentration decline below the MIC
@@ -166,9 +166,10 @@ The β-lactam ring structure is an important determinant of the epileptogenic pr
 
 <br>
 
--   Most serious reaction is immediate IgE-mediated anaphylaxis; incidence only 0.05% but 5-10% fatal. Other IgE-mediated reactions: urticaria, angioedema, laryngeal edema, bronchospasm
+-   Most serious reaction is immediate IgE-mediated anaphylaxis- incidence only 0.05% but 5-10% cases are fatal. 
+    -   Other IgE-mediated reactions: urticaria, angioedema, laryngeal edema, bronchospasm
 
-    -   Morbilliform rash after 72 hours is not IgE-mediated and often not treatment-limiting
+    -   Morbilliform rash after > 72 hours is not (type I) IgE-mediated and often not treatment-limiting (most are benign Type IV reactions)
 
 -   **Serious late allergic reactions:** Coombs-positive hemolytic anemia, neutropenia, thrombocytopenia, serum sickness, interstitial nephritis, hepatitis, eosinophilia, drug fever
 
